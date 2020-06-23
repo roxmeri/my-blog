@@ -1,0 +1,41 @@
+body{
+    font-family: Times New Roman;
+    padding: 60px;
+    background: #E0F8F7;
+    text-align: justify;
+
+
+}
+button{
+ color: rgb(202, 135, 222);
+
+}
+.header {
+    padding: 20px;
+    font-family: edwardian script itc;
+    font-size: 40px;
+    background-color: #E0F8F7 ;
+   
+}
+
+.leftcolumn{
+    float: left;
+    width: 80%;
+}
+.rihtcolumn{
+    Width: 20%;
+    float: left;
+    Padding-left: 20px
+}
+
+.card{
+    background-color: beige;
+    Padding: 20px;
+    margin-top: 20px;
+}
+.footer{
+    padding:20px;
+    text-align: center;
+    margin-top:20px;
+    background-color: beige;
+}
